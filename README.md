@@ -25,7 +25,7 @@ This project simulates real-time monitoring of electrical current across multipl
 ## ⚙️ Setup Instructions
 
 ### Clone the Repository
-git clone [https://github.com/jatindercc/LinearRegression](https://github.com/jatindercc/LinearRegression.git)
+git clone [https://github.com/jatindercc/LinearRegression.git](https://github.com/jatindercc/LinearRegression.git)
 
 ### Synthetic Data
 Synthetic test data was generated using the mean and standard deviation of training data. This allows testing the model’s robustness and anomaly detection logic.
@@ -46,3 +46,4 @@ Synthetic test data was generated using the mean and standard deviation of train
 ### Conclusion
 
 This system demonstrates predictive maintenance using streaming regression, anomaly detection, and real-time visualization. It is scalable to multiple machines and adaptable to domain-specific thresholds.
+
