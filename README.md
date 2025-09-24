@@ -29,7 +29,7 @@ git clone [https://github.com/jatindercc/LinearRegression.git](https://github.co
 
 ### Install Dependencies
 Ensure you have Python 3.11 or later and pip installed. Then run:
-pip install -r requirements.txt
+**pip install -r requirements.txt**
 ### Synthetic Data
 Synthetic test data was generated using the mean and standard deviation of the training data. This allows testing the model’s robustness and anomaly detection logic.
 
@@ -49,5 +49,6 @@ Synthetic test data was generated using the mean and standard deviation of the t
 ### Conclusion
 
 This system demonstrates predictive maintenance using streaming regression, anomaly detection, and real-time visualisation. It is scalable to multiple machines and adaptable to domain-specific thresholds.
+
 
 
